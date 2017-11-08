@@ -1,0 +1,20 @@
+{
+  "name": "luv-int",
+  "version": "1.0.0",
+  "description": "luv-int css framework",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himas Rafeek",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-less": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
