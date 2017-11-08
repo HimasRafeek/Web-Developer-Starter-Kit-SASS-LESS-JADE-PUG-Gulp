@@ -7,4 +7,10 @@ Before You Use This Starter Kit Make Sure You Have Installed NODEJS and Ruby(For
 #### GULP (npm install gulp -g [windows] / npm install gulp -g [for mac])
 
 If Above commands throws any error check Respective Websites for Correct CMD commands!
-Thanks!
+
+#### To Use this Starter kit Simply open the cmd and navigate to this folder and use this command "gulp watch"
+#### This will start watching for any changes in SASS | LESS | JADE-PUG in App Folder
+#### It's Ok If you only using one of this [SASS | LESS | JADE-PUG] It will Render the Files in Dist Folder
+#### You can make changes to GULPJS file in the ROOT FOLDER!
+
+# Thanks!
