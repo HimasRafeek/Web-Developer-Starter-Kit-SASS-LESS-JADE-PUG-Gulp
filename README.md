@@ -13,4 +13,10 @@ If Above commands throws any error check Respective Websites for Correct CMD com
 #### It's Ok If you only using one of this [SASS | LESS | JADE-PUG] It will Render the Files in Dist Folder
 #### You can make changes to GULPJS file in the ROOT FOLDER!
 
+### To Only Watch Sass use  [gulp watch sass]
+### To Only Watch less use  [gulp watch less]
+### To Only Watch jade use  [gulp watch jade]
+
+### To Watch individually use  [gulp watch]
+
 # Thanks!
